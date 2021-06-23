@@ -3,7 +3,7 @@
 > ## BASICS:
 
     1. Multiple Query Statements need to end with ;
-    2. -- reresents a comment
+    2. -- represents a comment
     3. SQL is not case sensitive
     4. SQL query statements can be written in one single line or in multiple lines.
     5. Order of clauses matter.
